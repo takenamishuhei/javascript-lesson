@@ -55,9 +55,7 @@ let sayWorld = function() {
 sayWorld();
 
 //Q7 メソッド
-user = {
-  birthday: '2000-09-27'
-};
+user.birthday = '2000-09-27';
 
 user = {
   sayHello: function() {
